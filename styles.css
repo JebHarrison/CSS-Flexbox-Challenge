@@ -1,5 +1,8 @@
 div {
-    
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    border: black;
 }
 
 .flex-container {
