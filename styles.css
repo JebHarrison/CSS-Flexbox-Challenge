@@ -3,6 +3,7 @@ div {
     height: 200px;
     background-color: white;
     border: black;
+    color: red;
 }
 
 .flex-container {
