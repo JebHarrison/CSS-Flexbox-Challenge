@@ -14,8 +14,10 @@ h1 {
     color: white;
     margin: 50px;
     margin-top: 0px;
+    padding: 0px;
 }
 
 .flex-container {
-    flex-direction: row;
+    flex-direction: column;
+    display: flex;
 }
