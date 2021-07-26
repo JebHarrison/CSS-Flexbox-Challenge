@@ -12,6 +12,8 @@ h1 {
     width: 900px;
     height: 70px;
     color: white;
+    margin: 50px;
+    margin-top: 0px;
 }
 
 .flex-container {
