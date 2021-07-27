@@ -33,3 +33,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.id {
+    display: flex;
+    
+}
