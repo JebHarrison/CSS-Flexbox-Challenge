@@ -1,5 +1,7 @@
-nav {
+nav,
+nav * {
     background-color: orange;
+    display: flex;
 }
 
 #nav-links {
@@ -35,6 +37,7 @@ h1 {
     justify-content: space-between;
     background-color: yellow;
     border-color: black;
+    border-radius: 5px;
 }
 
 
