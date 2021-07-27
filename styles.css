@@ -33,9 +33,3 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.flex-wrap {
-    display: flex;
-    flex-direction: flex-start;
-    align-items: flex-start;
-    justify-content: flex-start;
-}
