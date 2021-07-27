@@ -26,6 +26,9 @@ a {
     color: white;
     min-height: 100px;
     width: 40px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
