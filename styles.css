@@ -66,8 +66,8 @@ h1 {
 .card {
     border: solid black 2px
     ;
-    max-height: 25%;
-    padding: 15px s;
+    max-height: 50%;
+    padding: 15px;
 }
 
 ul {
