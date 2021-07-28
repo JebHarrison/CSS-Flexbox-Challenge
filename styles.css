@@ -81,7 +81,7 @@ ul {
 #right-hand {
     display: flex;
     flex-direction: column;
-    border-color: black;
+    border: solid black;
 }
 
 p {
