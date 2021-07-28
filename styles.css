@@ -56,7 +56,7 @@ h1 {
 }
 
 #left-panel {
-    background-color: blue;
+    background-color:white;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -78,7 +78,7 @@ ul {
 
 #right-hand {
     width: 25%;
-    background-color: violet;
+    background-color: white;
 }
 #right-hand {
     display: flex;
