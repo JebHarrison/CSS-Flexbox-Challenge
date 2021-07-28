@@ -43,7 +43,6 @@ a {
     width: 40px;
     display: flex;
     justify-content: space-between;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -54,7 +53,6 @@ h1 {
     margin: 15px;
     margin-top: 0px;
     padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: flex-start;
 }
@@ -79,10 +77,6 @@ ul {
     margin-left: 25px;
 }
 
-li {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 #right-hand {
     width: 100%;
     background-color: violet;
@@ -94,6 +88,5 @@ li {
 }
 
 p {
-    font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
 }
