@@ -79,6 +79,7 @@ ul {
 #right-hand {
     width: 25%;
     background-color: white;
+    margin-left: 10px;
 }
 #right-hand {
     display: flex;
@@ -89,4 +90,5 @@ ul {
 p {
     text-align: justify;
     margin-top: 10px;
+    margin-left: 10px;
 }
