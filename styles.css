@@ -51,15 +51,6 @@ h1 {
     justify-content: flex-start;
 }
 
-.flex-container {
-    flex-direction: column;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-evenly;
-    background-color: yellow;
-    border-color: black;
-    border-radius: 5px;
-}
 
 .card {
     border: solid black 2px
