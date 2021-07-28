@@ -21,6 +21,14 @@ nav {
 
 }
 
+main {
+    width: 90%;
+    height: 50%;
+    margin: 25px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
 a {
     color: white;
     min-height: 100px;
