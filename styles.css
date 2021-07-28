@@ -40,12 +40,9 @@ main {
     justify-content: space-evenly;
 }
 
-a {
-    color: white;
-    min-height: 100px;
-    width: 40px;
-    display: flex;
-    justify-content: space-between;
+a:hover {
+    color: black;
+    background-color: white;
 }
 
 h1 {
