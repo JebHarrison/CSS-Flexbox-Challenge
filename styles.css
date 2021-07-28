@@ -22,11 +22,10 @@ nav {
 }
 
 main {
-    width: 90%;
+    width: 50%;
     height: 50%;
-    margin: 25px auto;
+    margin: 15px auto;
     display: flex;
-    justify-content: space-between;
     align-items: flex-start;
 }
 
@@ -57,7 +56,7 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 50%;
+    width: 100%;
     align-items: center;
 }
 
