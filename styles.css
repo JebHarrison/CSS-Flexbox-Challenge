@@ -51,6 +51,12 @@ h1 {
     justify-content: flex-start;
 }
 
+#left-panel {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
 .card {
     border: solid black 2px
